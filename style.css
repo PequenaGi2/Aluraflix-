@@ -1,0 +1,40 @@
+body {
+    color: whitesmoke;
+    background: blue;
+    margin: 20px;
+    text-align: center;
+    
+}
+header {
+    border-bottom: solid 3px whitesmoke;
+    border-top: solid 3px whitesmoke;
+    border-left: solid 3px whSitesmoke;
+    border-right: solid 3px whitesmoke;
+    border-style: solid;
+    padding: 10px;
+    font-size: 35px;
+    color: whitesmoke;
+    font-family: cursive;
+    background-color: black;
+    
+    
+}
+
+section {
+    background: 50px gray;
+    stroke: aquamarine;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    display: grid;
+    justify-content:center;
+    font-family: cursive;
+    
+}
+
+.chamada-texto {
+    margin-right: 10%;
+    text-align:center;
+    justify-items:left;
+
+
+}
